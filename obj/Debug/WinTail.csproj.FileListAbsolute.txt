@@ -1,0 +1,12 @@
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\WinTail.exe.config
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\WinTail.exe
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\WinTail.pdb
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\Akka.dll
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\Akka.xml
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\obj\Debug\WinTail.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\obj\Debug\WinTail.exe
+C:\Users\Lenovo1\Source\Repos\akka-bootcamp\src\Unit-1\DoThis\obj\Debug\WinTail.pdb
